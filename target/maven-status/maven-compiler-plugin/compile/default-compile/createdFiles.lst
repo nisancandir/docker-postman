@@ -1,0 +1,7 @@
+com\restfulservice\Application.class
+com\restfulservice\model\Product.class
+com\nisancandir\restfulservice\controller\model\ProductID.class
+com\restfulservice\repository\CrudRepository.class
+com\restfulservice\service\ProductService.class
+com\restfulservice\controller\ProductController.class
+com\restfulservice\repository\ProductRepository.class
